@@ -2,10 +2,13 @@
 
 This project is a fork of [reveal.js](https://github.com/hakimel/reveal.js).
 
+## View the Slides
+These slides are live [here](http://christophernegrich.com/reveal-slides/).
+
 ## Documentation
 The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
 
-## To Run
+## To Run Locally
 
 Clone and build dependencies:
 ```
